@@ -1,0 +1,49 @@
+@import url(https://fonts.googleapis.com/css?family=PT+Serif:400,700);
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+
+
+#msg-box3-14 .mbr-header .mbr-header__text {
+  text-align: center;
+  font-family: 'PT Serif', serif;
+}
+#msg-box3-14 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-14 .mbr-article P {
+  font-family: 'PT Serif', serif;
+}
+
+
+
+#menu-0 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-0.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-0 .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-0 .mbr-navbar__hamburger {
+  color: #000000;
+}
+#menu-0 .mbr-brand__name a {
+  font-family: 'Slabo 27px', serif;
+  font-size: 18px;
+}
+#menu-0 .mbr-navbar__items a {
+  font-family: 'PT Serif', serif;
+}
+#msg-box4-7 .mbr-header__text {
+  color: #000000;
+  font-family: 'PT Serif', serif;
+}
+#msg-box4-7 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-7 .mbr-article {
+  color: #000000;
+}
+#msg-box4-7 .mbr-article P {
+  color: #000000;
+}
